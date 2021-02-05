@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>My New Hugo Site</title>
-		<link>http://example.org/</link>
-		<description>Recent content on example.org</description>
+		<title>Leonardo Mendonca</title>
+		<link>https://leosoamen.github.io/</link>
+		<description>Recent content on leosoamen.github.io</description>
 		<generator>Hugo -- gohugo.io</generator>
-		<language>en-us</language>
+		<language>fr-ca</language>
 		<lastBuildDate>Thu, 04 Feb 2021 21:42:35 -0500</lastBuildDate>
 		
-		<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://leosoamen.github.io/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
-			<title>My First Post</title>
-			<link>http://example.org/posts/my-first-post/</link>
+			<title>Ma Première Postage</title>
+			<link>https://leosoamen.github.io/posts/my-first-post/</link>
 			<pubDate>Thu, 04 Feb 2021 21:42:35 -0500</pubDate>
 			
-			<guid>http://example.org/posts/my-first-post/</guid>
+			<guid>https://leosoamen.github.io/posts/my-first-post/</guid>
 			<description>
 				
 				Bienvenue au mon nouveau site.
