@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Leonardo Mendonca</title>
+		<title>Leonardo&#39;s Blog</title>
 		<link>https://leosoamen.github.io/</link>
 		<description>Recent content on leosoamen.github.io</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>fr-ca</language>
-		<lastBuildDate>Thu, 04 Feb 2021 21:42:35 -0500</lastBuildDate>
 		
 		<atom:link href="https://leosoamen.github.io/index.xml" rel="self" type="application/rss+xml" />
 		
-		<item>
-			<title>Ma Première Postage</title>
-			<link>https://leosoamen.github.io/posts/my-first-post/</link>
-			<pubDate>Thu, 04 Feb 2021 21:42:35 -0500</pubDate>
-			
-			<guid>https://leosoamen.github.io/posts/my-first-post/</guid>
-			<description>
-				
-				Bienvenue au mon nouveau site.
-
-				
-			</description>
-		</item>
 		
 	</channel>
 </rss>
