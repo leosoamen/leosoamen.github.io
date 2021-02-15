@@ -1,7 +1,14 @@
 baseURL = "https://leosoamen.github.io/"
 languageCode = "fr-ca"
-title = "Leonardo Mendonca"
+defaultContentLanguage = "fr"
+author = "Leonardo Mendonca"
+title = "Leonardo's Blog"
 theme = "vitae"
+paginate = 5
+enableRobotsTXT = true
+
 publishdir = "../docs"
 
-avatar = "/images/self.jpg"
+[params]
+    homepage = false
+    avatar = "/images/self.jpg"
