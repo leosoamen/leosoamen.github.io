@@ -6,9 +6,23 @@
 		<description>Recent content on leosoamen.github.io</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>fr-ca</language>
+		<lastBuildDate>Mon, 15 Feb 2021 12:00:00 -0500</lastBuildDate>
 		
 		<atom:link href="https://leosoamen.github.io/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>J&#39;adore Minecraft</title>
+			<link>https://leosoamen.github.io/posts/jadore-minecraft/</link>
+			<pubDate>Mon, 15 Feb 2021 12:00:00 -0500</pubDate>
+			
+			<guid>https://leosoamen.github.io/posts/jadore-minecraft/</guid>
+			<description>
+				
+				 
+Je m’appelle Leonardo. Aujourd’hui, on va parler de Minecraft parce que j’adore Minecraft. Moi je jo...
+				
+			</description>
+		</item>
 		
 	</channel>
 </rss>
