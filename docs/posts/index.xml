@@ -1,28 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Posts on Leonardo&#39;s Blog</title>
-		<link>https://leosoamen.github.io/posts/</link>
-		<description>Recent content in Posts on leosoamen.github.io</description>
-		<generator>Hugo -- gohugo.io</generator>
-		<language>fr-ca</language>
-		<lastBuildDate>Mon, 15 Feb 2021 12:00:00 -0500</lastBuildDate>
-		
-		<atom:link href="https://leosoamen.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-		
-		<item>
-			<title>J&#39;adore Minecraft</title>
-			<link>https://leosoamen.github.io/posts/jadore-minecraft/</link>
-			<pubDate>Mon, 15 Feb 2021 12:00:00 -0500</pubDate>
-			
-			<guid>https://leosoamen.github.io/posts/jadore-minecraft/</guid>
-			<description>
-				
-				 
-Je m’appelle Leonardo. Aujourd’hui, on va parler de Minecraft parce que j’adore Minecraft. Moi je jo...
-				
-			</description>
-		</item>
-		
-	</channel>
+  <channel>
+    <title>Posts on Leonardo&#39;s Blog</title>
+    <link>https://leosoamen.github.io/posts/</link>
+    <description>Recent content in Posts on Leonardo&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-ca</language>
+    <lastBuildDate>Mon, 15 Feb 2021 12:36:02 -0500</lastBuildDate><atom:link href="https://leosoamen.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notre nouvelle Maison</title>
+      <link>https://leosoamen.github.io/posts/nouvelle-maison/</link>
+      <pubDate>Mon, 15 Feb 2021 12:36:02 -0500</pubDate>
+      
+      <guid>https://leosoamen.github.io/posts/nouvelle-maison/</guid>
+      <description>Ma famille et moi von vivre dans une nouvelle maison et une nouvelle école. Ma nouvelle maison et l&amp;rsquo;école est dans Waterloo, c&amp;rsquo;est une bêlle maison il a deux étage les chanbre son au 2e étage et il a un sousol. Il faut reformer beaucoup de chose, il faut reformer le sousol parce que le sousol est pas fini. Waterloo est très beau parce qu&amp;rsquo;il y a beaucoup de maison très manifique.</description>
+    </item>
+    
+    <item>
+      <title>J&#39;adore Minecraft</title>
+      <link>https://leosoamen.github.io/posts/jadore-minecraft/</link>
+      <pubDate>Mon, 15 Feb 2021 12:00:00 -0500</pubDate>
+      
+      <guid>https://leosoamen.github.io/posts/jadore-minecraft/</guid>
+      <description>Je m&amp;rsquo;appelle Leonardo. Aujourd&amp;rsquo;hui, on va parler de Minecraft parce que j&amp;rsquo;adore Minecraft. Moi je joue Minecraft dans mon XBOX, Nitendo switch, mon ordinateur et sur ma tablète. si tu ne sais pas jouer a Minecraft je peux te le dire. Donc dans Minecraft tu peux construire ce que tu veux et tu peut avoir des animaux, des possions, tu peux même voler si tu est dans créatif mode. Tu peux prendre tout ce que tu veux dans créatif mode mais si tu est dans survivre mode tu ne peux pas voler et prendre ce que tu veux.</description>
+    </item>
+    
+    <item>
+      <title>Star Wars</title>
+      <link>https://leosoamen.github.io/posts/star-wars/</link>
+      <pubDate>Mon, 15 Feb 2021 11:40:47 -0500</pubDate>
+      
+      <guid>https://leosoamen.github.io/posts/star-wars/</guid>
+      <description>Dans ce post on va parler de Star Wars. Moi j&amp;rsquo;ai regardé tous les filmes et j&amp;rsquo;ai 2 jeux vidéos de Star Wars. Le premier c&amp;rsquo;est des personnes qui ont des fusils et le deuzièmes c&amp;rsquo;est un jeux vidéos qui a des vaisseaux spatiaux. J&amp;rsquo;aime Star Wars parce qu&amp;rsquo;il a beucoup d&amp;rsquo;action et j&amp;rsquo;aime ça. Je joue a Star Wars tout les fins de semaine. Je joue Star Wars sur mon XBOX.</description>
+    </item>
+    
+  </channel>
 </rss>
