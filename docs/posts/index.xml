@@ -1,38 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Leonardo&#39;s Blog</title>
-    <link>https://leosoamen.github.io/posts/</link>
-    <description>Recent content in Posts on Leonardo&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-ca</language>
-    <lastBuildDate>Wed, 17 Feb 2021 12:36:02 -0500</lastBuildDate><atom:link href="https://leosoamen.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Notre Nouvelle Maison</title>
-      <link>https://leosoamen.github.io/posts/nouvelle-maison/</link>
-      <pubDate>Wed, 17 Feb 2021 12:36:02 -0500</pubDate>
-      
-      <guid>https://leosoamen.github.io/posts/nouvelle-maison/</guid>
-      <description>Ma famille et moi allons vivre dans une nouvelle maison et une nouvelle école. Ma nouvelle maison et l&amp;rsquo;école sont à Waterloo. C&amp;rsquo;est une belle maison, il a deux étages. Les chambres sont au 2e étage et il y a un sous-sol. Il faut réformer beaucoup de choses, il faut réformer le sous-sol parce que le sous-sol n&amp;rsquo;est pas fini. Waterloo est très beau parce qu&amp;rsquo;il y a beaucoup de maisons magnifiques.</description>
-    </item>
-    
-    <item>
-      <title>Star Wars</title>
-      <link>https://leosoamen.github.io/posts/star-wars/</link>
-      <pubDate>Tue, 16 Feb 2021 11:40:47 -0500</pubDate>
-      
-      <guid>https://leosoamen.github.io/posts/star-wars/</guid>
-      <description>Dans ce post on va parler de Star Wars. Moi j&amp;rsquo;ai regardé tous les films et j&amp;rsquo;ai 2 jeux vidéos de Star Wars. Le premier c&amp;rsquo;est des personnes qui ont des fusils et le deuxième c&amp;rsquo;est un jeux vidéo qui a des vaisseaux spatiaux. J&amp;rsquo;aime Star Wars parce qu&amp;rsquo;il a beaucoup d&amp;rsquo;action et j&amp;rsquo;aime ça. Je joue à Star Wars tous les fins de semaine. Je joue à Star Wars sur mon XBOX.</description>
-    </item>
-    
-    <item>
-      <title>J&#39;adore Minecraft</title>
-      <link>https://leosoamen.github.io/posts/jadore-minecraft/</link>
-      <pubDate>Mon, 15 Feb 2021 12:00:00 -0500</pubDate>
-      
-      <guid>https://leosoamen.github.io/posts/jadore-minecraft/</guid>
-      <description>Je m&amp;rsquo;appelle Leonardo. Aujourd&amp;rsquo;hui, on va parler de Minecraft parce que j&amp;rsquo;adore Minecraft. Moi je joue Minecraft dans mon XBOX, Nintendo Switch, mon ordinateur et sur ma tablette. Si tu ne sais pas jouer à Minecraft je peux te le dire. Donc dans Minecraft tu peux construire ce que tu veux et tu peux avoir des animaux, des poissons, tu peux même voler si tu est dans creatif mode. Tu peux prendre tout ce que tu veux dans creatif mode mais si tu est dans survivre mode tu ne peux pas voler et prendre ce que tu veux.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Posts on Leonardo&#39;s Blog</title>
+		<link>https://leosoamen.github.io/posts/</link>
+		<description>Recent content in Posts on leosoamen.github.io</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>fr-ca</language>
+		<lastBuildDate>Wed, 17 Feb 2021 12:36:02 -0500</lastBuildDate>
+		
+		<atom:link href="https://leosoamen.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Notre Nouvelle Maison</title>
+			<link>https://leosoamen.github.io/posts/nouvelle-maison/</link>
+			<pubDate>Wed, 17 Feb 2021 12:36:02 -0500</pubDate>
+			
+			<guid>https://leosoamen.github.io/posts/nouvelle-maison/</guid>
+			<description>
+				
+				 
+Ma famille et moi allons vivre dans une nouvelle maison et une nouvelle école. Ma nouvelle maison et l&#39;école sont à Wa...
+				
+			</description>
+		</item>
+		<item>
+			<title>Star Wars</title>
+			<link>https://leosoamen.github.io/posts/star-wars/</link>
+			<pubDate>Tue, 16 Feb 2021 11:40:47 -0500</pubDate>
+			
+			<guid>https://leosoamen.github.io/posts/star-wars/</guid>
+			<description>
+				
+				 
+Dans ce post on va parler de Star Wars. Moi j’ai regardé tous les films et j’ai 2 jeux vidéos de Star Wars...
+				
+			</description>
+		</item>
+		<item>
+			<title>J&#39;adore Minecraft</title>
+			<link>https://leosoamen.github.io/posts/jadore-minecraft/</link>
+			<pubDate>Mon, 15 Feb 2021 12:00:00 -0500</pubDate>
+			
+			<guid>https://leosoamen.github.io/posts/jadore-minecraft/</guid>
+			<description>
+				
+				 
+Je m’appelle Leonardo. Aujourd’hui, on va parler de Minecraft parce que j’adore Minecraft. Moi je jo...
+				
+			</description>
+		</item>
+		
+	</channel>
 </rss>
