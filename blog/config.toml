@@ -12,3 +12,17 @@ publishdir = "../docs"
 [params]
     homepage = false
     avatar = "/images/self.jpg"
+    subtitle = "Plein d'idées et d'aventures!"
+
+[params.comments]
+    enabled = true
+    eengine = "disqus"
+    disableOnTypes = ["page"]
+
+[params.comments.disqus]
+    shortname = "leosoamen"
+
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github"
+    url = "https://github.com/leosoamen"
