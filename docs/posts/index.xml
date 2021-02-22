@@ -6,10 +6,22 @@
 		<description>Recent content in Posts on leosoamen.github.io</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>fr-ca</language>
-		<lastBuildDate>Fri, 19 Feb 2021 08:41:31 -0500</lastBuildDate>
+		<lastBuildDate>Sun, 21 Feb 2021 09:42:05 -0500</lastBuildDate>
 		
 		<atom:link href="https://leosoamen.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>Harry Potter</title>
+			<link>https://leosoamen.github.io/posts/harry-potter/</link>
+			<pubDate>Sun, 21 Feb 2021 09:42:05 -0500</pubDate>
+			
+			<guid>https://leosoamen.github.io/posts/harry-potter/</guid>
+			<description>
+				
+				Harry Potter est très connu parce qu’il a survécu au plus grand sorcier du monde. Harry Potter a battu Voldemort 3...
+				
+			</description>
+		</item>
 		<item>
 			<title>Ma Mère</title>
 			<link>https://leosoamen.github.io/posts/ma-mere/</link>
