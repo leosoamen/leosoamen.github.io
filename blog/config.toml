@@ -16,11 +16,11 @@ publishdir = "../docs"
 
 [params.comments]
     enabled = true
-    eengine = "disqus"
+    engine = "disqus"
     disableOnTypes = ["page"]
 
 [params.comments.disqus]
-    shortname = "leosoamen"
+    shortname = "leonardos-blog-1"
 
 [[params.social]]
     name = "Github"
