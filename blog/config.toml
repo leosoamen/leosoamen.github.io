@@ -4,7 +4,7 @@ defaultContentLanguage = "fr"
 author = "Leonardo Mendonca"
 title = "Leonardo's Blog"
 theme = "vitae"
-paginate = 5
+paginate = 100
 enableRobotsTXT = true
 
 publishdir = "../docs"
