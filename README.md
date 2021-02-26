@@ -1,5 +1,9 @@
 # My Blog
 
+# New Post
+
+    $ hugo new posts/[title].md
+
 ## Build Blog
 
 To run it locally:
