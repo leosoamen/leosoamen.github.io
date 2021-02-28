@@ -6,10 +6,23 @@
 		<description>Recent content on leosoamen.github.io</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>fr-ca</language>
-		<lastBuildDate>Thu, 25 Feb 2021 15:57:41 -0500</lastBuildDate>
+		<lastBuildDate>Fri, 26 Feb 2021 15:49:34 -0500</lastBuildDate>
 		
 		<atom:link href="https://leosoamen.github.io/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>Moi</title>
+			<link>https://leosoamen.github.io/posts/moi/</link>
+			<pubDate>Fri, 26 Feb 2021 15:49:34 -0500</pubDate>
+			
+			<guid>https://leosoamen.github.io/posts/moi/</guid>
+			<description>
+				
+				 
+Je m’appelle Leonardo. J’ai fait ce blog parce que j’adore écrire des textes et parce que mon père f...
+				
+			</description>
+		</item>
 		<item>
 			<title>Super Chien</title>
 			<link>https://leosoamen.github.io/posts/super_chien/</link>
@@ -69,7 +82,7 @@ Ma mère est née au Brésil et à la maison elle parle Portugais. Elle a un cha
 			<description>
 				
 				 
-Ma famille et moi allons vivre dans une nouvelle maison et une nouvelle école. Ma nouvelle maison et l&#39;école sont à Wa...
+Ma famille et moi allons vivre dans une nouvelle maison et une nouvelle école. Ma nouvelle maison et l’école son...
 				
 			</description>
 		</item>
