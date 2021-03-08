@@ -8,6 +8,7 @@ paginate = 100
 enableRobotsTXT = true
 
 publishdir = "../docs"
+googleAnalytics = "G-4JCQGD85BG"
 
 [params]
     homepage = false
