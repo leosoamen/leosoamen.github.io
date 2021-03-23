@@ -6,10 +6,23 @@
 		<description>Recent content in Posts on leosoamen.github.io</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>fr-ca</language>
-		<lastBuildDate>Sat, 06 Mar 2021 08:16:23 -0500</lastBuildDate>
+		<lastBuildDate>Wed, 10 Mar 2021 18:17:19 -0500</lastBuildDate>
 		
 		<atom:link href="https://leosoamen.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>Mon père</title>
+			<link>https://leosoamen.github.io/posts/mon_pere/</link>
+			<pubDate>Wed, 10 Mar 2021 18:17:19 -0500</pubDate>
+			
+			<guid>https://leosoamen.github.io/posts/mon_pere/</guid>
+			<description>
+				
+				 
+Aujourd’hui je vais parler de mon père. Mon père fait du code et son travail c’est de faire du code. Il y ...
+				
+			</description>
+		</item>
 		<item>
 			<title>Comment joindre mon serveur Minecraft</title>
 			<link>https://leosoamen.github.io/posts/joindre_serveur_minecraft/</link>
