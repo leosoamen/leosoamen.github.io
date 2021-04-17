@@ -6,10 +6,22 @@
 		<description>Recent content in Posts on leosoamen.github.io</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>fr-ca</language>
-		<lastBuildDate>Wed, 10 Mar 2021 18:17:19 -0500</lastBuildDate>
+		<lastBuildDate>Sat, 17 Apr 2021 10:41:50 -0400</lastBuildDate>
 		
 		<atom:link href="https://leosoamen.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>Waterloo!</title>
+			<link>https://leosoamen.github.io/posts/waterloo/</link>
+			<pubDate>Sat, 17 Apr 2021 10:41:50 -0400</pubDate>
+			
+			<guid>https://leosoamen.github.io/posts/waterloo/</guid>
+			<description>
+				
+				J’ai fait cet article parce que j’ai déménagé dans une nouvelle maison. Ma nouvelle maison est à Waterloo, O...
+				
+			</description>
+		</item>
 		<item>
 			<title>Mon père</title>
 			<link>https://leosoamen.github.io/posts/mon_pere/</link>
@@ -127,10 +139,10 @@ Ma mère est née au Brésil et à la maison elle parle Portugais. Elle a un cha
 		</item>
 		<item>
 			<title>Notre nouvelle maison</title>
-			<link>https://leosoamen.github.io/posts/nouvelle-maison/</link>
+			<link>https://leosoamen.github.io/posts/ma_nouvelle-maison/</link>
 			<pubDate>Wed, 17 Feb 2021 12:36:02 -0500</pubDate>
 			
-			<guid>https://leosoamen.github.io/posts/nouvelle-maison/</guid>
+			<guid>https://leosoamen.github.io/posts/ma_nouvelle-maison/</guid>
 			<description>
 				
 				 

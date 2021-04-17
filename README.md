@@ -2,6 +2,7 @@
 
 # New Post
 
+    $ cd blog
     $ hugo new posts/[title].md
 
 ## Build Blog
