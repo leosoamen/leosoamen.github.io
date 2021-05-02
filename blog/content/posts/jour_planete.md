@@ -4,6 +4,8 @@ date: 2021-04-22T18:54:00-04:00
 draft: false
 ---
 
+![Planète](/images/posts/planete.jpg)
+
 Aujourd'hui c'est le jour de la planète. C'est un jour où les personnes parlent de choses qui ne sont pas bonnes pour la planète, comme, à l'école, les enseignantes parlent de ça aux enfants. C'est un jour important parce qu'on essaie de résoudre ces problèmes. Par exemple: la pollution, des animaux qui meurent, et des forêts qui sont détruites.
 
 Les types de choses qui polluent sont: les voitures, les usines, les autobus et ça peut être n'importe quel véhicule, (même les voitures électriques, parce qu'il y des façons de produire l'électricité qui pollue l'aire que nous respirons.
