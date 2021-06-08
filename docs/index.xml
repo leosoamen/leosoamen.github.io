@@ -6,10 +6,23 @@
 		<description>Recent content on leosoamen.github.io</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>fr-ca</language>
-		<lastBuildDate>Thu, 22 Apr 2021 18:54:00 -0400</lastBuildDate>
+		<lastBuildDate>Mon, 07 Jun 2021 09:06:50 -0400</lastBuildDate>
 		
 		<atom:link href="https://leosoamen.github.io/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>Les Dinosaures!</title>
+			<link>https://leosoamen.github.io/posts/les_dinosaures/</link>
+			<pubDate>Mon, 07 Jun 2021 09:06:50 -0400</pubDate>
+			
+			<guid>https://leosoamen.github.io/posts/les_dinosaures/</guid>
+			<description>
+				
+				 
+J’aime les Dinosaures parce qu’ils sont très grands et effrayants. J’ai commencé à les aimer parce q...
+				
+			</description>
+		</item>
 		<item>
 			<title>Le jour de la planète</title>
 			<link>https://leosoamen.github.io/posts/jour_planete/</link>
