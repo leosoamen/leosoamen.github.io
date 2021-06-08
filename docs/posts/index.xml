@@ -6,10 +6,23 @@
 		<description>Recent content in Posts on leosoamen.github.io</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>fr-ca</language>
-		<lastBuildDate>Sat, 17 Apr 2021 10:41:50 -0400</lastBuildDate>
+		<lastBuildDate>Thu, 22 Apr 2021 18:54:00 -0400</lastBuildDate>
 		
 		<atom:link href="https://leosoamen.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>Le jour de la planète</title>
+			<link>https://leosoamen.github.io/posts/jour_planete/</link>
+			<pubDate>Thu, 22 Apr 2021 18:54:00 -0400</pubDate>
+			
+			<guid>https://leosoamen.github.io/posts/jour_planete/</guid>
+			<description>
+				
+				 
+Aujourd’hui c’est le jour de la planète. C’est un jour où les personnes parlent de choses qui ne son...
+				
+			</description>
+		</item>
 		<item>
 			<title>Waterloo!</title>
 			<link>https://leosoamen.github.io/posts/waterloo/</link>
@@ -44,7 +57,7 @@ Aujourd’hui je vais parler de mon père. Mon père fait du code et son travail
 			<description>
 				
 				 
-Je vais changer d’école donc je voudrais que mes amis jouent avec moi dans mon serveur Minecraft. Comme ça on pe...
+Je vais changer d&#39;école donc je voudrais que mes amis jouent avec moi dans mon serveur Minecraft. Comme ça on peut gar...
 				
 			</description>
 		</item>
@@ -139,14 +152,14 @@ Ma mère est née au Brésil et à la maison elle parle Portugais. Elle a un cha
 		</item>
 		<item>
 			<title>Notre nouvelle maison</title>
-			<link>https://leosoamen.github.io/posts/ma_nouvelle-maison/</link>
+			<link>https://leosoamen.github.io/posts/nouvelle-maison/</link>
 			<pubDate>Wed, 17 Feb 2021 12:36:02 -0500</pubDate>
 			
-			<guid>https://leosoamen.github.io/posts/ma_nouvelle-maison/</guid>
+			<guid>https://leosoamen.github.io/posts/nouvelle-maison/</guid>
 			<description>
 				
 				 
-Ma famille et moi allons vivre dans une nouvelle maison et une nouvelle école. Ma nouvelle maison et l’école son...
+Ma famille et moi allons vivre dans une nouvelle maison et une nouvelle école. Ma nouvelle maison et l&#39;école sont à Wa...
 				
 			</description>
 		</item>
